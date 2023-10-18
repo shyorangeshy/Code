@@ -11,6 +11,6 @@ We release our proposed models, including the CKS and Event Detect system. The C
 
 ## Training
 
-* run [`scripts/run.sh`](https://github.com/shyorangeshy/Code/blob/master/selector/scripts/run.sh) to train the ***CKS*** model.
+* run [`scripts/run.sh`](https://github.com/shyorangeshy/Code/blob/master/CKS/scripts/run.sh) to train the ***CKS*** model.
 
 * run [`scripts/run.sh`](https://github.com/shyorangeshy/Code/blob/master/EDBase/scripts/run.sh) to train on the ***Event Detection*** task.
