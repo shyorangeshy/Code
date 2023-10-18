@@ -6,7 +6,7 @@ You can run the [`GPT_generate.py`](https://github.com/shyorangeshy/Code/blob/ma
 
 #### Models
 
-We release our proposed models in this work, including the CKS and Event Detect system. The CKS is used to select the best commonsense knowledge for each word. The EDBase is utilized to identify the trigger word.
+We release our proposed models, including the CKS and Event Detect system. The CKS is used to select the best commonsense knowledge for each word. The EDBase is utilized to identify the trigger word.
 
 
 ## Training
